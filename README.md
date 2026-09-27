@@ -10,7 +10,7 @@
 
 ## 怎么运行
 
-直接双击 `index.html`，用浏览器打开即可。
+ (https://zontixx.github.io/todo-list/)
 
 ## 技术栈
 
