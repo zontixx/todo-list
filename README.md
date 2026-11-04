@@ -8,8 +8,8 @@
 - 点击事项标记完成（划线）
 - 删除事项
 
-## 怎么运行
-
+## 在线体验
+ 
  (https://zontixx.github.io/todo-list/)
 
 ## 技术栈
